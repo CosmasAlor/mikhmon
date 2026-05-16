@@ -1,0 +1,29 @@
+# Docker
+Dockerfile
+docker-compose.yml
+.docker/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+error_log
+
+# Cache
+*.cache
+tmp/
+temp/
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Sensitive files
+.env
+config.local.php
